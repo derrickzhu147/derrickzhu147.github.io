@@ -26,10 +26,10 @@ author:
   name             : "Yiheng Zhu (朱屹恒)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "China"
+  employer         : "Zhongguancun Academy & Zhongguancun Institute of Artificial Intelligence"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhuyiheng@zgci.ac.cn" 
 
   # Academic websites
   academia         : # URL
