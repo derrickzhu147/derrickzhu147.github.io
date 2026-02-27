@@ -46,6 +46,30 @@ Selected Publications
   </div>
 </div>
 
+<h2>📄 Publications</h2>
+
+<ul style="list-style:none; padding-left:0;">
+  <li style="margin-bottom:1.2em;">
+    <div style="font-size:0.9em; color:#666;">NeurIPS 2023</div>
+    <div style="font-weight:600;">
+      XXXXX
+    </div>
+    <div>
+      XXX
+    </div>
+  </li>
+
+  <li style="margin-bottom:1.2em;">
+    <div style="font-size:0.9em; color:#666;">EMNLP 2023</div>
+    <div style="font-weight:600;">
+      XXX
+    </div>
+    <div>
+      XXX
+    </div>
+  </li>
+</ul>
+
 <div style="text-align:center; width: 320px; margin: 0 auto;">
   <script 
     type="text/javascript" 
