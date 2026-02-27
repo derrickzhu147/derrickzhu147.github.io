@@ -15,60 +15,52 @@ My research interests lie in Generative AI (e.g., diffusion models and multimoda
 
 I am seeking highly motivated Ph.D. students with strong backgrounds in machine learning, generative modeling, or AI for Science to pursue cutting-edge research at Zhongguancun Academy. Interested candidates are encouraged to contact me via email with their CV and research interests.
 
-Selected Publications
+📄Selected Publications
 ------
 
 **AI for Science**
 
-<h2>📄 Publications</h2>
-
-<div style="margin-bottom:1.2em;">
-  <div style="font-size:0.9em; color:#666;">
-    NeurIPS 2024
+<div style="margin-bottom:1.4em;">
+  <div style="display:flex; align-items:center; gap:0.6em;">
+    <span style="
+      background:#f0f0f0;
+      color:#444;
+      font-size:0.75em;
+      padding:0.15em 0.5em;
+      border-radius:4px;
+      white-space:nowrap;
+    ">
+      NeurIPS 2024
+    </span>
+    <span style="font-size:1.05em; font-weight:600;">
+      Bridge-IF: Learning Inverse Protein Folding with Markov Bridges
+    </span>
   </div>
-  <div style="font-size:1.05em; font-weight:600;">
-    Bridge-IF: Learning Inverse Protein Folding with Markov Bridges
-  </div>
-  <div style="font-size:0.95em;">
+  <div style="font-size:0.95em; margin-left:0.05em;">
     <b>Yiheng Zhu</b>
   </div>
 </div>
 
-<div style="margin-bottom:1.2em;">
-  <div style="font-size:0.9em; color:#666;">
-    NeurIPS 2023
+<div style="margin-bottom:1.4em;">
+  <div style="display:flex; align-items:center; gap:0.6em;">
+    <span style="
+      background:#f0f0f0;
+      color:#444;
+      font-size:0.75em;
+      padding:0.15em 0.5em;
+      border-radius:4px;
+      white-space:nowrap;
+    ">
+      NeurIPS 2023
+    </span>
+    <span style="font-size:1.05em; font-weight:600;">
+      Sample-efficient Multi-objective Molecular Optimization with GFlowNets
+    </span>
   </div>
-  <div style="font-size:1.05em; font-weight:600;">
-    Sample-efficient Multi-objective Molecular Optimization with GFlowNets
-  </div>
-  <div style="font-size:0.95em;">
+  <div style="font-size:0.95em; margin-left:0.05em;">
     <b>Yiheng Zhu</b>
   </div>
 </div>
-
-<h2>📄 Publications</h2>
-
-<ul style="list-style:none; padding-left:0;">
-  <li style="margin-bottom:1.2em;">
-    <div style="font-size:0.9em; color:#666;">NeurIPS 2023</div>
-    <div style="font-weight:600;">
-      XXXXX
-    </div>
-    <div>
-      XXX
-    </div>
-  </li>
-
-  <li style="margin-bottom:1.2em;">
-    <div style="font-size:0.9em; color:#666;">EMNLP 2023</div>
-    <div style="font-weight:600;">
-      XXX
-    </div>
-    <div>
-      XXX
-    </div>
-  </li>
-</ul>
 
 <div style="text-align:center; width: 320px; margin: 0 auto;">
   <script 
