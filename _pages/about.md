@@ -20,11 +20,10 @@ Selected Publications
 
 **AI for Science**
 
-<div style="text-align:center;">
-  <a href="https://clustrmaps.com/site/1c9bp" title="ClustrMaps">
-    <img 
-      src="https://www.clustrmaps.com/map_v2.png?d=RN8uv3vjOGhWJHjgtfoic06ea3R56jzvi8TAtkhkK8E&cl=ffffff"
-      width="420"
-    />
-  </a>
+<div style="text-align:center; width: 420px; margin: 0 auto;">
+  <script 
+    type="text/javascript" 
+    id="clstr_globe"
+    src="//clustrmaps.com/globe.js?d=RN8uv3vjOGhWJHjgtfoic06ea3R56jzvi8TAtkhkK8E">
+  </script>
 </div>
