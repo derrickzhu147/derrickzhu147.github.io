@@ -21,6 +21,7 @@ I am seeking highly motivated Ph.D. students with strong backgrounds in machine 
 **AI for Science**
 
 <div style="margin-bottom:1.4em;">
+  <!-- 标题行：badge + 论文名 -->
   <div style="display:flex; align-items:center; gap:0.6em;">
     <span style="
       background:#f0f0f0;
@@ -32,12 +33,21 @@ I am seeking highly motivated Ph.D. students with strong backgrounds in machine 
     ">
       NeurIPS 2024
     </span>
-    <span style="font-size:1.05em; font-weight:600;">
+
+    <a href="PDF_URL_NEURIPS2024" target="_blank" rel="noopener noreferrer"
+       style="font-size:1.05em; color:inherit; text-decoration:none;">
       Bridge-IF: Learning Inverse Protein Folding with Markov Bridges
-    </span>
+    </a>
+
+    <a href="PDF_URL_NEURIPS2024" target="_blank" rel="noopener noreferrer"
+       style="font-size:0.85em; color:#666; text-decoration:none;">
+      [PDF]
+    </a>
   </div>
-  <div style="font-size:0.95em; margin-left:0.05em;">
-    <b>Yiheng Zhu</b>
+
+  <!-- 作者行：与论文标题对齐 -->
+  <div style="font-size:0.95em; color:#333; margin-left:5.6em;">
+    Yiheng Zhu
   </div>
 </div>
 
@@ -53,12 +63,20 @@ I am seeking highly motivated Ph.D. students with strong backgrounds in machine 
     ">
       NeurIPS 2023
     </span>
-    <span style="font-size:1.05em; font-weight:600;">
+
+    <a href="PDF_URL_NEURIPS2023" target="_blank" rel="noopener noreferrer"
+       style="font-size:1.05em; color:inherit; text-decoration:none;">
       Sample-efficient Multi-objective Molecular Optimization with GFlowNets
-    </span>
+    </a>
+
+    <a href="PDF_URL_NEURIPS2023" target="_blank" rel="noopener noreferrer"
+       style="font-size:0.85em; color:#666; text-decoration:none;">
+      [PDF]
+    </a>
   </div>
-  <div style="font-size:0.95em; margin-left:0.05em;">
-    <b>Yiheng Zhu</b>
+
+  <div style="font-size:0.95em; color:#333; margin-left:5.6em;">
+    Yiheng Zhu
   </div>
 </div>
 
