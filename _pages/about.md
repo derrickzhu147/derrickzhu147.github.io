@@ -20,7 +20,7 @@ Selected Publications
 
 **AI for Science**
 
-<div style="text-align:center; width: 420px; margin: 0 auto;">
+<div style="text-align:center; width: 320px; margin: 0 auto;">
   <script 
     type="text/javascript" 
     id="clstr_globe"
