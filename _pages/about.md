@@ -20,10 +20,16 @@ Selected Publications
 
 **AI for Science**
 
-<div style="text-align:center;">
+<h3 style="text-align:center;">🌍 Visitors</h3>
+
+<div style="text-align:center; width: 420px; margin: 0 auto;">
   <script 
     type="text/javascript" 
     id="clstr_globe"
     src="//clustrmaps.com/globe.js?d=RN8uv3vjOGhWJHjgtfoic06ea3R56jzvi8TAtkhkK8E">
   </script>
 </div>
+
+<p style="text-align:center;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=derrickzhu147.github.io" />
+</p>
