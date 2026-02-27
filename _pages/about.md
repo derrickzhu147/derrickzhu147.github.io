@@ -20,7 +20,7 @@ I am seeking highly motivated Ph.D. students with strong backgrounds in machine 
 
 {% include_relative pub.md %}
 
-<div style="text-align:center; width: 320px; margin: 0 auto;">
+<div style="text-align:center; width: 200px; margin: 0 auto;">
   <script 
     type="text/javascript" 
     id="clstr_globe"
