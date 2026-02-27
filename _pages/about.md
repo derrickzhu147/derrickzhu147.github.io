@@ -41,12 +41,12 @@ I am seeking highly motivated Ph.D. students with strong backgrounds in machine 
 
     <!-- 右列：标题 + 作者 -->
     <div>
-      <a href="PDF_URL_NEURIPS2024" target="_blank" rel="noopener noreferrer"
+      <a href="https://arxiv.org/abs/2411.02120" target="_blank" rel="noopener noreferrer"
          style="font-size:1.05em; color:inherit; text-decoration:none;">
         Bridge-IF: Learning Inverse Protein Folding with Markov Bridges
       </a>
       <div style="font-size:0.95em; color:#333;">
-        Yiheng Zhu
+        **Yiheng Zhu**, Jialu Wu, Qiuyi Li, Jiahuan Yan, Mingze Yin, Wei Wu, Mingyang Li, Jieping Ye, Zheng Wang, Jian Wu
       </div>
     </div>
   </div>
