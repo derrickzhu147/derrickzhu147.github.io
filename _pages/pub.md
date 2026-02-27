@@ -5,15 +5,13 @@ The full list can be accessed on <a href="https://scholar.google.com/citations?u
 AI for Science
 </div>
 
-- <span style="color:#F29F58;">[NeurIPS]</span> 
+- <span style="color:#F29F58;">[NeurIPS 2024]</span> 
   [Bridge-IF: Learning Inverse Protein Folding with Markov Bridges](https://arxiv.org/abs/2411.02120) 
   [\[**Code**\]](https://github.com/violet-sto/Bridge-IF)  
   **<span style="color:#120A8F;">Yiheng Zhu</span>**, Jialu Wu, Qiuyi Li, Jiahuan Yan, Mingze Yin, Wei Wu, Mingyang Li, Jieping Ye, Zheng Wang, Jian Wu  
-  <span style="color:#F29F58;">2024</span>
 
 
-- <span style="color:#F29F58;">[NeurIPS]</span> 
+- <span style="color:#F29F58;">[NeurIPS 2023]</span> 
   [Sample-efficient Multi-objective Molecular Optimization with GFlowNets](https://arxiv.org/abs/2302.04040) 
   [\[**Code**\]](https://github.com/violet-sto/HN-GFN)  
   **<span style="color:#120A8F;">Yiheng Zhu</span>**, Jialu Wu, Chaowen Hu, Jiahuan Yan, Chang-Yu Hsieh, Tingjun Hou, Jian Wu  
-  <span style="color:#F29F58;">2023</span>
