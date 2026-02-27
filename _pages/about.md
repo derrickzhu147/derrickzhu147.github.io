@@ -41,8 +41,19 @@ I am seeking highly motivated Ph.D. students with strong backgrounds in machine 
 
     <!-- 右列：标题 + 作者 -->
     <div>
-      <a href="https://arxiv.org/abs/2411.02120" target="_blank" rel="noopener noreferrer"
-         style="font-size:1.05em; color:inherit; text-decoration:none;">
+      <a href="https://arxiv.org/abs/2411.02120" 
+         target="_blank"
+         rel="noopener noreferrer"
+         style="
+           font-size:1.05em;
+           color:#1a4fb3;
+           text-decoration: underline;
+           text-decoration-thickness: 1px;
+           text-underline-offset: 2px;
+         "
+         onmouseover="this.style.color='#0f3a8a';"
+         onmouseout="this.style.color='#1a4fb3';"
+      >
         Bridge-IF: Learning Inverse Protein Folding with Markov Bridges
       </a>
       <div style="font-size:0.95em; color:#333;">
@@ -72,8 +83,19 @@ I am seeking highly motivated Ph.D. students with strong backgrounds in machine 
     </span>
 
     <div>
-      <a href="https://arxiv.org/abs/2302.04040" target="_blank" rel="noopener noreferrer"
-         style="font-size:1.05em; color:inherit; text-decoration:none;">
+      <a href="https://arxiv.org/abs/2302.04040"          
+         target="_blank"
+         rel="noopener noreferrer"
+         style="
+           font-size:1.05em;
+           color:#1a4fb3;
+           text-decoration: underline;
+           text-decoration-thickness: 1px;
+           text-underline-offset: 2px;
+         "
+         onmouseover="this.style.color='#0f3a8a';"
+         onmouseout="this.style.color='#1a4fb3';"
+      >
         Sample-efficient Multi-objective Molecular Optimization with GFlowNets
       </a>
       <div style="font-size:0.95em; color:#333;">
