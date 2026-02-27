@@ -20,6 +20,32 @@ Selected Publications
 
 **AI for Science**
 
+<h2>📄 Publications</h2>
+
+<div style="margin-bottom:1.2em;">
+  <div style="font-size:0.9em; color:#666;">
+    NeurIPS 2024
+  </div>
+  <div style="font-size:1.05em; font-weight:600;">
+    Bridge-IF: Learning Inverse Protein Folding with Markov Bridges
+  </div>
+  <div style="font-size:0.95em;">
+    <b>Yiheng Zhu</b>
+  </div>
+</div>
+
+<div style="margin-bottom:1.2em;">
+  <div style="font-size:0.9em; color:#666;">
+    NeurIPS 2023
+  </div>
+  <div style="font-size:1.05em; font-weight:600;">
+    Sample-efficient Multi-objective Molecular Optimization with GFlowNets
+  </div>
+  <div style="font-size:0.95em;">
+    <b>Yiheng Zhu</b>
+  </div>
+</div>
+
 <div style="text-align:center; width: 320px; margin: 0 auto;">
   <script 
     type="text/javascript" 
