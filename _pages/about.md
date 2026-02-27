@@ -35,7 +35,7 @@ I am seeking highly motivated Ph.D. students with strong backgrounds in machine 
     </span>
 
     <a href="PDF_URL_NEURIPS2024" target="_blank" rel="noopener noreferrer"
-       style="font-size:1.05em; color:inherit; text-decoration:none;">
+       style="font-size:1.0em; color:inherit; text-decoration:none;">
       Bridge-IF: Learning Inverse Protein Folding with Markov Bridges
     </a>
 
@@ -65,7 +65,7 @@ I am seeking highly motivated Ph.D. students with strong backgrounds in machine 
     </span>
 
     <a href="PDF_URL_NEURIPS2023" target="_blank" rel="noopener noreferrer"
-       style="font-size:1.05em; color:inherit; text-decoration:none;">
+       style="font-size:1.0em; color:inherit; text-decoration:none;">
       Sample-efficient Multi-objective Molecular Optimization with GFlowNets
     </a>
 
