@@ -20,6 +20,8 @@ Selected Publications
 
 **AI for Science**
 
-## 🌍 Visitors
-
-[![Visitors Map](https://clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=1c9bp)](https://clustrmaps.com/site/1c9bp)
+<p align="center">
+  <a href="https://clustrmaps.com/site/1c9bp" title="Visitor Map">
+    <img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=420&t=tt&d=1c9bp" />
+  </a>
+</p>
