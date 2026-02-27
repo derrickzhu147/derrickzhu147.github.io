@@ -21,8 +21,13 @@ I am seeking highly motivated Ph.D. students with strong backgrounds in machine 
 **AI for Science**
 
 <div style="margin-bottom:1.4em;">
-  <!-- 标题行：badge + 论文名 -->
-  <div style="display:flex; align-items:center; gap:0.6em;">
+  <div style="
+    display:grid;
+    grid-template-columns: auto 1fr;
+    column-gap:0.6em;
+    align-items:start;
+  ">
+    <!-- 左列：期刊 badge -->
     <span style="
       background:#f0f0f0;
       color:#444;
@@ -34,25 +39,26 @@ I am seeking highly motivated Ph.D. students with strong backgrounds in machine 
       NeurIPS 2024
     </span>
 
-    <a href="PDF_URL_NEURIPS2024" target="_blank" rel="noopener noreferrer"
-       style="font-size:1.0em; color:inherit; text-decoration:none;">
-      Bridge-IF: Learning Inverse Protein Folding with Markov Bridges
-    </a>
-
-    <a href="PDF_URL_NEURIPS2024" target="_blank" rel="noopener noreferrer"
-       style="font-size:0.85em; color:#666; text-decoration:none;">
-      [PDF]
-    </a>
-  </div>
-
-  <!-- 作者行：与论文标题对齐 -->
-  <div style="font-size:0.95em; color:#333; margin-left:5.6em;">
-    Yiheng Zhu
+    <!-- 右列：标题 + 作者 -->
+    <div>
+      <a href="PDF_URL_NEURIPS2024" target="_blank" rel="noopener noreferrer"
+         style="font-size:1.05em; color:inherit; text-decoration:none;">
+        Bridge-IF: Learning Inverse Protein Folding with Markov Bridges
+      </a>
+      <div style="font-size:0.95em; color:#333;">
+        Yiheng Zhu
+      </div>
+    </div>
   </div>
 </div>
 
 <div style="margin-bottom:1.4em;">
-  <div style="display:flex; align-items:center; gap:0.6em;">
+  <div style="
+    display:grid;
+    grid-template-columns: auto 1fr;
+    column-gap:0.6em;
+    align-items:start;
+  ">
     <span style="
       background:#f0f0f0;
       color:#444;
@@ -64,19 +70,15 @@ I am seeking highly motivated Ph.D. students with strong backgrounds in machine 
       NeurIPS 2023
     </span>
 
-    <a href="PDF_URL_NEURIPS2023" target="_blank" rel="noopener noreferrer"
-       style="font-size:1.0em; color:inherit; text-decoration:none;">
-      Sample-efficient Multi-objective Molecular Optimization with GFlowNets
-    </a>
-
-    <a href="PDF_URL_NEURIPS2023" target="_blank" rel="noopener noreferrer"
-       style="font-size:0.85em; color:#666; text-decoration:none;">
-      [PDF]
-    </a>
-  </div>
-
-  <div style="font-size:0.95em; color:#333; margin-left:5.6em;">
-    Yiheng Zhu
+    <div>
+      <a href="PDF_URL_NEURIPS2023" target="_blank" rel="noopener noreferrer"
+         style="font-size:1.05em; color:inherit; text-decoration:none;">
+        Sample-efficient Multi-objective Molecular Optimization with GFlowNets
+      </a>
+      <div style="font-size:0.95em; color:#333;">
+        Yiheng Zhu
+      </div>
+    </div>
   </div>
 </div>
 
