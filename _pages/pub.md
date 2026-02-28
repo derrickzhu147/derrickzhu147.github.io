@@ -2,7 +2,7 @@
 The full list can be accessed on <a href="https://scholar.google.com/citations?user=aUbmsLQAAAAJ&hl=zh-CN" target="_blank">my Google Scholar profile</a>.
 
 <div style="background:#D4E6F8;color:#2D3436;padding:10px 20px;border-radius:8px;font-size:22px;font-weight:bold;border:1px solid #B8D4F0">
-AI for Molecular Design and Discovery
+AI for Molecular Design & Discovery
 </div>
 
 - <span style="color:#F29F58;">[Advanced Science 2025]</span> 
@@ -43,3 +43,32 @@ AI for Molecular Design and Discovery
   [MolHF: A Hierarchical Normalizing Flow for Molecular Graph Generation](https://arxiv.org/abs/2305.08457) 
   [\[**Code**\]](https://github.com/violet-sto/MolHF)  
   **<span style="color:#120A8F;">Yiheng Zhu</span>**, Zhenqiu Ouyang, Ben Liao, Jialu Wu, Yixuan Wu, Chang-Yu Hsieh, Tingjun Hou, Jian Wu
+
+
+<div style="background:#D4E6F8;color:#2D3436;padding:10px 20px;border-radius:8px;font-size:22px;font-weight:bold;border:1px solid #B8D4F0">
+AI for Genomics & Precision Medicine
+</div>
+
+
+- <span style="color:#F29F58;">[bioRxiv]</span> 
+  [Functional In-Context Learning in Genomic Language Models with Nucleotide-Level Supervision and Genome Compression](https://www.biorxiv.org/content/10.64898/2026.01.27.702015v1.abstract) 
+  [\[**Code**\]](https://github.com/GenerTeam/GENERator)  
+  Qiuyi Li, Zhihao Zhan, Shikun Feng, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Yuan He, Wei Wu, Zhenghang Shi, Shengjie Wang, Zongyong Hu, Zhao Yang, Jiaoyang Li, Jian Tang, Haiguang Liu, Tao Qin
+
+
+- <span style="color:#F29F58;">[bioRxiv]</span> 
+  [Generanno: A Genomic Foundation Model for Metagenomic Annotation](https://www.biorxiv.org/content/10.1101/2025.06.04.656517v3.abstract)  
+  Qiuyi Li, Wei Wu, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Fuli Feng, Jieping Ye, Zheng Wang
+
+
+- <span style="color:#F29F58;">[Genome Biology 2025]</span> 
+  [Biology-driven insights into the power of single-cell foundation models](https://link.springer.com/article/10.1186/s13059-025-03781-6) 
+  [\[**Code**\]](https://github.com/wujialu/scFM-Bench)  
+  Jialu Wu, Qing Ye, Yilin Wang, Renling Hu, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Mingze Yin, Tianyue Wang, Jike Wang, Chang-Yu Hsieh, Tingjun Hou
+
+  
+- <span style="color:#F29F58;">[Bioinformatics 2022]</span> 
+  [TGSA: protein–protein association-based twin graph neural networks for drug response prediction with similarity augmentation](https://academic.oup.com/bioinformatics/article/38/2/461/6374919) 
+  [\[**Code**\]](https://github.com/violet-sto/TGSA)  
+  **<span style="color:#120A8F;">Yiheng Zhu</span>**, Zhenqiu Ouyang, Wenbo Chen, Ruiwei Feng, Danny Z Chen, Ji Cao, Jian Wu
+
