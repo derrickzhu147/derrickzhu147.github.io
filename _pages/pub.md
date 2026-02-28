@@ -49,15 +49,20 @@ AI for Molecular Design & Discovery
 AI for Genomics & Precision Medicine
 </div>
 
-
-- <span style="color:#F29F58;">[bioRxiv]</span> 
-  [Functional In-Context Learning in Genomic Language Models with Nucleotide-Level Supervision and Genome Compression](https://www.biorxiv.org/content/10.64898/2026.01.27.702015v1.abstract) 
+- <span style="color:#F29F58;">[arXiv]</span> 
+  [GENERator: A Long-Context Generative Genomic Foundation Model](https://arxiv.org/abs/2502.07272) 
   [\[**Code**\]](https://github.com/GenerTeam/GENERator)  
+  Wei Wu, Qiuyi Li, Yuanyuan Zhang, Zhihao Zhan, Ruipu Chen, Mingyang Li, Kun Fu, Junyan Qi, Yongzhou Bao, Chao Wang, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Zhiyun Zhang, Jian Tang, Fuli Feng, Jieping Ye, Yuwen Liu, Hui Xiong, Zheng Wang
+
+  
+- <span style="color:#F29F58;">[bioRxiv]</span> 
+  [Functional In-Context Learning in Genomic Language Models with Nucleotide-Level Supervision and Genome Compression](https://www.biorxiv.org/content/10.64898/2026.01.27.702015v1.abstract)  
   Qiuyi Li, Zhihao Zhan, Shikun Feng, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Yuan He, Wei Wu, Zhenghang Shi, Shengjie Wang, Zongyong Hu, Zhao Yang, Jiaoyang Li, Jian Tang, Haiguang Liu, Tao Qin
 
 
 - <span style="color:#F29F58;">[bioRxiv]</span> 
-  [Generanno: A Genomic Foundation Model for Metagenomic Annotation](https://www.biorxiv.org/content/10.1101/2025.06.04.656517v3.abstract)  
+  [Generanno: A Genomic Foundation Model for Metagenomic Annotation](https://www.biorxiv.org/content/10.1101/2025.06.04.656517v3.abstract) 
+  [\[**Code**\]](https://github.com/GenerTeam/GENERanno)  
   Qiuyi Li, Wei Wu, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Fuli Feng, Jieping Ye, Zheng Wang
 
 
