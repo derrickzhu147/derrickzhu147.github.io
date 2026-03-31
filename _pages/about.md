@@ -11,9 +11,9 @@ About Me
 ======
 Hi, I am an Assistant Professor at Zhongguancun Academy. Prior to this, I received my Ph.D. degree in Computer Science from Zhejiang University, under the supervision of Prof. Jian Wu, Prof. Tingjun Hou, and Prof. Chang-Yu Hsieh.
 
-My research interests lie in Generative AI (e.g., diffusion models and multimodal large language models) and AI for Science, with a particular focus on drug discovery and scientific foundation models. My work has been published in leading conferences and journals, including NeurIPS, ICLR, SIGKDD, and Advanced Science, among others. I also serve as a reviewer for several prestigious venues such as Nature Computational Science, NeurIPS, ICLR, and ICML.
+My research interests lie in **Generative AI** (e.g., diffusion models and multimodal large language models) and **AI for Science**, with a particular focus on drug discovery and scientific foundation models. My work has been published in leading conferences and journals, including NeurIPS, ICLR, SIGKDD, and Advanced Science, among others. I also serve as a reviewer for several prestigious venues such as Nature Computational Science, NeurIPS, ICLR, and ICML.
 
-I am seeking highly motivated Ph.D. students with strong backgrounds in machine learning, generative modeling, or AI for Science to pursue cutting-edge research at Zhongguancun Academy. Interested candidates are encouraged to contact me via email with their CV and research interests.
+I am seeking highly motivated Ph.D. students with strong backgrounds in machine learning, generative modeling, or AI for Science to pursue cutting-edge research at Zhongguancun Academy. Interested candidates are encouraged to contact me via 📧 **[zhuyiheng@zgci.ac.cn](mailto:zhuyiheng@zgci.ac.cn)** with their CV and research interests.
 
 🔥 News
 ======
