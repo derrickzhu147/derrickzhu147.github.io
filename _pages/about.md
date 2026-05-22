@@ -18,6 +18,9 @@ I am seeking highly motivated Ph.D. students with strong backgrounds in machine 
 🔥 News
 ======
 
+- **[2026.05]** Our paper on **protein language models** has been accepted to **KDD 2026 AI4Sciences Track**. Congratulations to Mingze and all collaborators!
+- **[2026.05]** Our survey on **"controllable protein sequence design** has been accepted by **npj Drug Discovery**.
+
 {% include_relative pub.md %}
 
 <div style="text-align:center; width: 200px; margin: 0 auto;">
