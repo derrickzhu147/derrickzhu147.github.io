@@ -5,7 +5,7 @@ The full list can be accessed on <a href="https://scholar.google.com/citations?u
 AI for Molecular Design & Discovery
 </div>
 
-- <span style="color:#F29F58;">[npj drug discovery]</span> 
+- <span style="color:#F29F58;">[npj Drug Discovery 2026]</span> 
   [Generative AI for controllable protein sequence design: A survey](https://www.nature.com/articles/s44386-026-00054-5)  
   **<span style="color:#120A8F;">Yiheng Zhu</span>**, Zitai Kong, Jialu Wu, Mingze Yin, Weize Liu, Yuqiang Han, Hongxia Xu, Chang-Yu Hsieh, Tingjun Hou, Jian Wu 
 
