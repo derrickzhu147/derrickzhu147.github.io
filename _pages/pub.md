@@ -5,6 +5,16 @@ The full list can be accessed on <a href="https://scholar.google.com/citations?u
 AI for Molecular Design & Discovery
 </div>
 
+- <span style="color:#F29F58;">[npj drug discovery]</span> 
+  [Generative AI for controllable protein sequence design: A survey](https://www.nature.com/articles/s44386-026-00054-5)  
+  **<span style="color:#120A8F;">Yiheng Zhu</span>**, Zitai Kong, Jialu Wu, Mingze Yin, Weize Liu, Yuqiang Han, Hongxia Xu, Chang-Yu Hsieh, Tingjun Hou, Jian Wu 
+
+
+- <span style="color:#F29F58;">[SIGKDD 2026]</span> 
+  Caduceus: MoE Foundation Models for Unifying Biological and Natural Language  
+  Mingze Yin, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Jialu Wu, Jian Ma, Hanjing Zhou, Mingyang Li, Yuhua Zhou, Jintai Chen, Tingjun Hou, Jieping Ye, Aimin Pan
+
+  
 - <span style="color:#F29F58;">[Advanced Science 2025]</span> 
   [A Multi-Objective Molecular Generation Method Based on Pareto Algorithm and Monte Carlo Tree Search](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202410640)  
   Yifei Liu, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Jike Wang, Renling Hu, Chao Shen, Wanglin Qu, Gaoang Wang, Qun Su, Yuchen Zhu, Yu Kang, Peichen Pan, Chang‐Yu Hsieh, Tingjun Hou
