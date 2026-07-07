@@ -95,11 +95,11 @@ AI Core
 
 - <span style="color:#F29F58;">[ECCV 2026]</span> 
   [VTEdit-Bench: A Comprehensive Benchmark for Multi-Reference Image Editing Models in Virtual Try-On](https://arxiv.org/abs/2603.11734) 
-  [\[**Code**\]](https://github.com/Hiuyee124/VTEdit-Bench)
+  [\[**Code**\]](https://github.com/Hiuyee124/VTEdit-Bench)  
   Xiaoye Liang, Zhiyuan Qu, Mingye Zou, Jiaxin Liu, Lai Jiang, Mai Xu, **<span style="color:#120A8F;">Yiheng Zhu</span>**
 
 
 - <span style="color:#F29F58;">[ICLR 2024]</span> 
   [Making Pre-trained Language Models Great on Tabular Prediction](https://arxiv.org/abs/2403.01841) 
-  [\[**Code**\]](https://github.com/jyansir/tp-berta)
+  [\[**Code**\]](https://github.com/jyansir/tp-berta)  
   Jiahuan Yan, Bo Zheng, Hongxia Xu, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Danny Z Chen, Jimeng Sun, Jian Wu, Jintai Chen
