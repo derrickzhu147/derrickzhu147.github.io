@@ -9,11 +9,6 @@ AI for Molecular Design & Discovery
   [Generative AI for controllable protein sequence design: A survey](https://www.nature.com/articles/s44386-026-00054-5)  
   **<span style="color:#120A8F;">Yiheng Zhu</span>**, Zitai Kong, Jialu Wu, Mingze Yin, Weize Liu, Yuqiang Han, Hongxia Xu, Chang-Yu Hsieh, Tingjun Hou, Jian Wu 
 
-
-- <span style="color:#F29F58;">[SIGKDD 2026]</span> 
-  Caduceus: MoE Foundation Models for Unifying Biological and Natural Language  
-  Mingze Yin, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Jialu Wu, Jian Ma, Hanjing Zhou, Mingyang Li, Yuhua Zhou, Jintai Chen, Tingjun Hou, Jieping Ye, Aimin Pan
-
   
 - <span style="color:#F29F58;">[Advanced Science 2025]</span> 
   [A Multi-Objective Molecular Generation Method Based on Pareto Algorithm and Monte Carlo Tree Search](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202410640)  
@@ -99,6 +94,11 @@ AI Core
   Xiaoye Liang, Zhiyuan Qu, Mingye Zou, Jiaxin Liu, Lai Jiang, Mai Xu, **<span style="color:#120A8F;">Yiheng Zhu</span>**
 
 
+- <span style="color:#F29F58;">[SIGKDD 2026]</span> 
+  [Caduceus: MoE Foundation Models for Unifying Biological and Natural Language](https://dl.acm.org/doi/abs/10.1145/3770855.3818885)  
+  Mingze Yin, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Jialu Wu, Jian Ma, Hanjing Zhou, Mingyang Li, Yuhua Zhou, Jintai Chen, Tingjun Hou, Jieping Ye, Aimin Pan
+
+  
 - <span style="color:#F29F58;">[ICLR 2024]</span> 
   [Making Pre-trained Language Models Great on Tabular Prediction](https://arxiv.org/abs/2403.01841) 
   [\[**Code**\]](https://github.com/jyansir/tp-berta)  
