@@ -51,6 +51,33 @@ AI for Molecular Design & Discovery
 
 
 <div style="background:#D4E6F8;color:#2D3436;padding:10px 20px;border-radius:8px;font-size:22px;font-weight:bold;border:1px solid #B8D4F0">
+AI Core
+</div>
+
+
+- <span style="color:#F29F58;">[EMNLP 2026 Findings]</span> 
+  Func-R1: Incentivizing Mathematical Function Reasoning in Multimodal Large Language Models  
+  Mingze Yin, Xiaohan Wang, Dian Li, Yao Haichao, Yilin Zhao, Youjun Chen, sinbadliu, Jintai Chen, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Chang-Yu Hsieh, Aimin PAN
+
+  
+- <span style="color:#F29F58;">[ECCV 2026]</span> 
+  [VTEdit-Bench: A Comprehensive Benchmark for Multi-Reference Image Editing Models in Virtual Try-On](https://arxiv.org/abs/2603.11734) 
+  [\[**Code**\]](https://github.com/Hiuyee124/VTEdit-Bench)  
+  Xiaoye Liang, Zhiyuan Qu, Mingye Zou, Jiaxin Liu, Lai Jiang, Mai Xu, **<span style="color:#120A8F;">Yiheng Zhu</span>**
+
+
+- <span style="color:#F29F58;">[SIGKDD 2026]</span> 
+  [Caduceus: MoE Foundation Models for Unifying Biological and Natural Language](https://dl.acm.org/doi/abs/10.1145/3770855.3818885)  
+  Mingze Yin, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Jialu Wu, Jian Ma, Hanjing Zhou, Mingyang Li, Yuhua Zhou, Jintai Chen, Tingjun Hou, Jieping Ye, Aimin Pan
+
+  
+- <span style="color:#F29F58;">[ICLR 2024]</span> 
+  [Making Pre-trained Language Models Great on Tabular Prediction](https://arxiv.org/abs/2403.01841) 
+  [\[**Code**\]](https://github.com/jyansir/tp-berta)  
+  Jiahuan Yan, Bo Zheng, Hongxia Xu, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Danny Z Chen, Jimeng Sun, Jian Wu, Jintai Chen
+
+  
+<div style="background:#D4E6F8;color:#2D3436;padding:10px 20px;border-radius:8px;font-size:22px;font-weight:bold;border:1px solid #B8D4F0">
 AI for Genomics & Precision Medicine
 </div>
 
@@ -82,29 +109,3 @@ AI for Genomics & Precision Medicine
   [\[**Code**\]](https://github.com/violet-sto/TGSA)  
   **<span style="color:#120A8F;">Yiheng Zhu</span>**, Zhenqiu Ouyang, Wenbo Chen, Ruiwei Feng, Danny Z Chen, Ji Cao, Jian Wu
 
-
-<div style="background:#D4E6F8;color:#2D3436;padding:10px 20px;border-radius:8px;font-size:22px;font-weight:bold;border:1px solid #B8D4F0">
-AI Core
-</div>
-
-
-- <span style="color:#F29F58;">[EMNLP 2026 Findings]</span> 
-  Func-R1: Incentivizing Mathematical Function Reasoning in Multimodal Large Language Models  
-  Mingze Yin, Xiaohan Wang, Dian Li, Yao Haichao, Yilin Zhao, Youjun Chen, sinbadliu, Jintai Chen, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Chang-Yu Hsieh, Aimin PAN
-
-  
-- <span style="color:#F29F58;">[ECCV 2026]</span> 
-  [VTEdit-Bench: A Comprehensive Benchmark for Multi-Reference Image Editing Models in Virtual Try-On](https://arxiv.org/abs/2603.11734) 
-  [\[**Code**\]](https://github.com/Hiuyee124/VTEdit-Bench)  
-  Xiaoye Liang, Zhiyuan Qu, Mingye Zou, Jiaxin Liu, Lai Jiang, Mai Xu, **<span style="color:#120A8F;">Yiheng Zhu</span>**
-
-
-- <span style="color:#F29F58;">[SIGKDD 2026]</span> 
-  [Caduceus: MoE Foundation Models for Unifying Biological and Natural Language](https://dl.acm.org/doi/abs/10.1145/3770855.3818885)  
-  Mingze Yin, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Jialu Wu, Jian Ma, Hanjing Zhou, Mingyang Li, Yuhua Zhou, Jintai Chen, Tingjun Hou, Jieping Ye, Aimin Pan
-
-  
-- <span style="color:#F29F58;">[ICLR 2024]</span> 
-  [Making Pre-trained Language Models Great on Tabular Prediction](https://arxiv.org/abs/2403.01841) 
-  [\[**Code**\]](https://github.com/jyansir/tp-berta)  
-  Jiahuan Yan, Bo Zheng, Hongxia Xu, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Danny Z Chen, Jimeng Sun, Jian Wu, Jintai Chen
