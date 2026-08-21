@@ -88,6 +88,11 @@ AI Core
 </div>
 
 
+- <span style="color:#F29F58;">[EMNLP 2026 Findings]</span> 
+  Func-R1: Incentivizing Mathematical Function Reasoning in Multimodal Large Language Models
+  Mingze Yin, Xiaohan Wang, Dian Li, Yao Haichao, Yilin Zhao, Youjun Chen, sinbadliu, Jintai Chen, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Chang-Yu Hsieh, Aimin PAN
+
+  
 - <span style="color:#F29F58;">[ECCV 2026]</span> 
   [VTEdit-Bench: A Comprehensive Benchmark for Multi-Reference Image Editing Models in Virtual Try-On](https://arxiv.org/abs/2603.11734) 
   [\[**Code**\]](https://github.com/Hiuyee124/VTEdit-Bench)  
