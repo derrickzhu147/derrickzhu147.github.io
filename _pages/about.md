@@ -18,6 +18,7 @@ I am seeking highly motivated Ph.D. students with strong backgrounds in machine 
 🔥 News
 ======
 
+- <span style="color:#F29F58;">[2026.08]</span> One paper has been accepted to **Findings of EMNLP 2026**. Congratulations to Mingze!
 - <span style="color:#F29F58;">[2026.06]</span> One **[paper](https://arxiv.org/abs/2603.11734)** has been accepted to **ECCV 2026**. Congratulations to Xiaoye!
 - <span style="color:#F29F58;">[2026.05]</span> Our **[paper](https://dl.acm.org/doi/abs/10.1145/3770855.3818885)** on **protein language models** has been accepted to **KDD 2026 AI4Sciences Track**. Congratulations to Mingze!
 - <span style="color:#F29F58;">[2026.05]</span> Our **[survey](https://www.nature.com/articles/s44386-026-00054-5)** on **controllable protein sequence design** has been accepted by **npj Drug Discovery**.
