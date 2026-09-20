@@ -15,7 +15,7 @@ My research interests lie in **Generative AI** (e.g., diffusion models and multi
 
 I am seeking highly motivated Ph.D. students with strong backgrounds in machine learning, generative modeling, or AI for Science to pursue cutting-edge research at Zhongguancun Academy. Interested candidates are encouraged to contact me via **[email](mailto:zhuyiheng@zgci.ac.cn)** with their CV and research interests.
 
-🎺 \underline{I am particularly excited about **AI for Sports and Health**, including sports video understanding, exercise for health, wearable intelligence, and personalized health management. Students interested in these topics, especially those working on multimodal foundation models and agents, are very welcome to reach out!}
+🎺 <u>I am particularly excited about **AI for Sports and Health**, including sports video understanding, exercise for health, wearable intelligence, and personalized health management. Students interested in these topics, especially those working on multimodal foundation models and agents, are very welcome to reach out!</u>
 
 🔥 News
 ======
