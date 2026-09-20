@@ -11,9 +11,64 @@ About Me
 ======
 Hi, I am an Assistant Professor at Zhongguancun Academy. Prior to this, I received my Ph.D. degree in Computer Science from Zhejiang University, under the supervision of Prof. Jian Wu, Prof. Tingjun Hou, and Prof. Chang-Yu Hsieh.
 
-My research interests lie in **Generative AI** (e.g., diffusion models and multimodal large language models) and **AI for Science**, with a particular focus on drug discovery and scientific foundation models. My work has been published in leading conferences and journals, including NeurIPS, ICLR, SIGKDD, and Advanced Science, among others. I also serve as a reviewer for several prestigious venues such as Nature Machine Intelligence, Nature Computational Science, NeurIPS, ICLR, and ICML.
+My research interests lie in **Generative AI** (e.g., diffusion models and multimodal large language models) and **AI for Science & Health**, with a particular focus on **drug discovery**, **scientific foundation models**, **Sports**. My work has been published in leading conferences and journals, including NeurIPS, ICLR, SIGKDD, and Advanced Science, among others. I also serve as a reviewer for several prestigious venues such as Nature Machine Intelligence, Nature Computational Science, NeurIPS, ICLR, and ICML.
 
 I am seeking highly motivated Ph.D. students with strong backgrounds in machine learning, generative modeling, or AI for Science to pursue cutting-edge research at Zhongguancun Academy. Interested candidates are encouraged to contact me via **[email](mailto:zhuyiheng@zgci.ac.cn)** with their CV and research interests.
+
+I am interested in **AI for Sports and Health**, particularly in sports video understanding, exercise for health, wearable intelligence, and personalized health management. I welcome students interested in these topics, especially those working on multimodal LLMs and agents.
+
+<div class="research-highlight">
+  <div class="highlight-title">
+    <span class="badge">🔥 Current Focus</span>
+    <strong>AI for Sports and Health</strong>
+  </div>
+
+  <p>
+    I am particularly excited about <b>AI for Sports and Health</b>,
+    including sports video understanding, exercise for health,
+    wearable intelligence, and personalized health management.
+    Students interested in these directions are very welcome to reach out!
+  </p>
+
+  <div class="tags">
+    <span>Sports Video Understanding</span>
+    <span>Exercise for Health</span>
+    <span>Wearable Intelligence</span>
+    <span>Health Agents</span>
+  </div>
+</div>
+
+.research-highlight {
+  border-left: 4px solid #e85d3f;
+  background: #fff8f5;
+  padding: 16px 20px;
+  margin: 20px 0;
+  border-radius: 6px;
+}
+
+.highlight-title {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+.badge {
+  display: inline-block;
+  background: #e85d3f;
+  color: white;
+  padding: 3px 9px;
+  border-radius: 12px;
+  font-size: 13px;
+  margin-right: 8px;
+}
+
+.tags span {
+  display: inline-block;
+  background: #f1f3f5;
+  padding: 4px 9px;
+  margin: 3px 4px 0 0;
+  border-radius: 12px;
+  font-size: 13px;
+}
 
 🔥 News
 ======
