@@ -15,12 +15,12 @@ My research interests lie in **Generative AI** (e.g., diffusion models and multi
 
 I am seeking highly motivated Ph.D. students with strong backgrounds in machine learning, generative modeling, or AI for Science to pursue cutting-edge research at Zhongguancun Academy. Interested candidates are encouraged to contact me via **[email](mailto:zhuyiheng@zgci.ac.cn)** with their CV and research interests.
 
-🎺 I am particularly excited about **AI for Sports and Health**, including sports video understanding, exercise for health, wearable intelligence, and personalized health management. Students interested in these topics, especially those working on multimodal foundation models and agents, are very welcome to reach out!
+🎺 \underline{I am particularly excited about **AI for Sports and Health**, including sports video understanding, exercise for health, wearable intelligence, and personalized health management. Students interested in these topics, especially those working on multimodal foundation models and agents, are very welcome to reach out!}
 
 🔥 News
 ======
 
-- <span style="color:#F29F58;">[2026.08]</span> One paper has been accepted to **Findings of EMNLP 2026**. Congratulations to Mingze!
+- <span style="color:#F29F58;">[2026.08]</span> One **[paper](https://arxiv.org/abs/2609.14779)** has been accepted to **Findings of EMNLP 2026**. Congratulations to Mingze!
 - <span style="color:#F29F58;">[2026.06]</span> One **[paper](https://arxiv.org/abs/2603.11734)** has been accepted to **ECCV 2026**. Congratulations to Xiaoye!
 - <span style="color:#F29F58;">[2026.05]</span> Our **[paper](https://dl.acm.org/doi/abs/10.1145/3770855.3818885)** on **protein language models** has been accepted to **KDD 2026 AI4Sciences Track**. Congratulations to Mingze!
 - <span style="color:#F29F58;">[2026.05]</span> Our **[survey](https://www.nature.com/articles/s44386-026-00054-5)** on **controllable protein sequence design** has been accepted by **npj Drug Discovery**.
