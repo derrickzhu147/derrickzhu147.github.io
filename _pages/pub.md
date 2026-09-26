@@ -12,18 +12,18 @@ AI for Molecular Design & Discovery
   
 - <span style="color:#F29F58;">[Advanced Science 2025]</span> 
   [A Multi-Objective Molecular Generation Method Based on Pareto Algorithm and Monte Carlo Tree Search](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202410640)  
-  Yifei Liu, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Jike Wang, Renling Hu, Chao Shen, Wanglin Qu, Gaoang Wang, Qun Su, Yuchen Zhu, Yu Kang, Peichen Pan, Chang‐Yu Hsieh, Tingjun Hou
+  Yifei Liu†, **<span style="color:#120A8F;">Yiheng Zhu†</span>**, Jike Wang, Renling Hu, Chao Shen, Wanglin Qu, Gaoang Wang, Qun Su, Yuchen Zhu, Yu Kang, Peichen Pan, Chang‐Yu Hsieh, Tingjun Hou
 
 
 - <span style="color:#F29F58;">[JACS Au 2025]</span> 
   [HiCLR: Knowledge-Induced Hierarchical Contrastive Learning with Retrosynthesis Prediction Yields a Reaction Foundation Model](https://pubs.acs.org/doi/full/10.1021/jacsau.5c00289) 
   [\[**Code**\]](https://github.com/wujialu/HiCLR)  
-  Jialu Wu, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Xiaorui Wang, Yitong Li, Mingze Yin, Tianyue Wang, Yuqiang Han, Yu Kang, Yafeng Deng, Jian Wu, Chang-Yu Hsieh, Tingjun Hou
+  Jialu Wu†, **<span style="color:#120A8F;">Yiheng Zhu†</span>**, Xiaorui Wang, Yitong Li, Mingze Yin, Tianyue Wang, Yuqiang Han, Yu Kang, Yafeng Deng, Jian Wu, Chang-Yu Hsieh, Tingjun Hou
 
   
 - <span style="color:#F29F58;">[AAAI 2025]</span> 
   [Synergy of GFlowNet and Protein Language Model Makes a Diverse Antibody Designer](https://ojs.aaai.org/index.php/AAAI/article/view/34370)  
-  Mingze Yin, Hanjing Zhou, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Jialu Wu, Wei Wu, Mingyang Li, Kun Fu, Zheng Wang, Chang-Yu Hsieh, Tingjun Hou, Jian Wu
+  Mingze Yin†, Hanjing Zhou†, **<span style="color:#120A8F;">Yiheng Zhu†</span>**, Jialu Wu, Wei Wu, Mingyang Li, Kun Fu, Zheng Wang, Chang-Yu Hsieh, Tingjun Hou, Jian Wu
 
   
 - <span style="color:#F29F58;">[NeurIPS 2024]</span> 
@@ -35,19 +35,19 @@ AI for Molecular Design & Discovery
 - <span style="color:#F29F58;">[Health Data Science 2024]</span> 
   [Multi-Modal CLIP-Informed Protein Editing](https://spj.science.org/doi/abs/10.34133/hds.0211) 
   [\[**Code**\]](https://github.com/KDurant-123/ProtET)  
-  Mingze Yin, Hanjing Zhou, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Miao Lin, Yixuan Wu, Jialu Wu, Hongxia Xu, Chang-Yu Hsieh, Tingjun Hou, Jintai Chen, Jian Wu
+  Mingze Yin†, Hanjing Zhou†, **<span style="color:#120A8F;">Yiheng Zhu†</span>**, Miao Lin, Yixuan Wu, Jialu Wu, Hongxia Xu, Chang-Yu Hsieh, Tingjun Hou, Jintai Chen, Jian Wu
 
   
 - <span style="color:#F29F58;">[NeurIPS 2023]</span> 
   [Sample-efficient Multi-objective Molecular Optimization with GFlowNets](https://arxiv.org/abs/2302.04040) 
   [\[**Code**\]](https://github.com/violet-sto/HN-GFN)  
-  **<span style="color:#120A8F;">Yiheng Zhu</span>**, Jialu Wu, Chaowen Hu, Jiahuan Yan, Chang-Yu Hsieh, Tingjun Hou, Jian Wu
+  **<span style="color:#120A8F;">Yiheng Zhu†</span>**, Jialu Wu†, Chaowen Hu, Jiahuan Yan, Chang-Yu Hsieh, Tingjun Hou, Jian Wu
 
 
 - <span style="color:#F29F58;">[IJCAI 2023]</span> 
   [MolHF: A Hierarchical Normalizing Flow for Molecular Graph Generation](https://arxiv.org/abs/2305.08457) 
   [\[**Code**\]](https://github.com/violet-sto/MolHF)  
-  **<span style="color:#120A8F;">Yiheng Zhu</span>**, Zhenqiu Ouyang, Ben Liao, Jialu Wu, Yixuan Wu, Chang-Yu Hsieh, Tingjun Hou, Jian Wu
+  **<span style="color:#120A8F;">Yiheng Zhu†</span>**, Zhenqiu Ouyang†, Ben Liao, Jialu Wu, Yixuan Wu, Chang-Yu Hsieh, Tingjun Hou, Jian Wu
 
 
 <div style="background:#D4E6F8;color:#2D3436;padding:10px 20px;border-radius:8px;font-size:22px;font-weight:bold;border:1px solid #B8D4F0">
@@ -57,18 +57,18 @@ AI Core
 
 - <span style="color:#F29F58;">[EMNLP 2026 Findings]</span> 
   Func-R1: Incentivizing Mathematical Function Reasoning in Multimodal Large Language Models  
-  Mingze Yin, Xiaohan Wang, Dian Li, Yao Haichao, Yilin Zhao, Youjun Chen, sinbadliu, Jintai Chen, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Chang-Yu Hsieh, Aimin PAN
+  Mingze Yin, Xiaohan Wang, Dian Li, Yao Haichao, Yilin Zhao, Youjun Chen, sinbadliu, Jintai Chen, **<span style="color:#120A8F;">Yiheng Zhu*</span>**, Chang-Yu Hsieh*, Aimin PAN*
 
   
 - <span style="color:#F29F58;">[ECCV 2026]</span> 
   [VTEdit-Bench: A Comprehensive Benchmark for Multi-Reference Image Editing Models in Virtual Try-On](https://arxiv.org/abs/2603.11734) 
   [\[**Code**\]](https://github.com/Hiuyee124/VTEdit-Bench)  
-  Xiaoye Liang, Zhiyuan Qu, Mingye Zou, Jiaxin Liu, Lai Jiang, Mai Xu, **<span style="color:#120A8F;">Yiheng Zhu</span>**
+  Xiaoye Liang, Zhiyuan Qu, Mingye Zou, Jiaxin Liu, Lai Jiang, Mai Xu, **<span style="color:#120A8F;">Yiheng Zhu*</span>**
 
 
 - <span style="color:#F29F58;">[SIGKDD 2026]</span> 
   [Caduceus: MoE Foundation Models for Unifying Biological and Natural Language](https://dl.acm.org/doi/abs/10.1145/3770855.3818885)  
-  Mingze Yin, **<span style="color:#120A8F;">Yiheng Zhu</span>**, Jialu Wu, Jian Ma, Hanjing Zhou, Mingyang Li, Yuhua Zhou, Jintai Chen, Tingjun Hou, Jieping Ye, Aimin Pan
+  Mingze Yin†, **<span style="color:#120A8F;">Yiheng Zhu†</span>**, Jialu Wu, Jian Ma, Hanjing Zhou, Mingyang Li, Yuhua Zhou, Jintai Chen, Tingjun Hou, Jieping Ye, Aimin Pan
 
   
 - <span style="color:#F29F58;">[ICLR 2024]</span> 
@@ -107,5 +107,5 @@ AI for Genomics & Precision Medicine
 - <span style="color:#F29F58;">[Bioinformatics 2022]</span> 
   [TGSA: protein–protein association-based twin graph neural networks for drug response prediction with similarity augmentation](https://academic.oup.com/bioinformatics/article/38/2/461/6374919) 
   [\[**Code**\]](https://github.com/violet-sto/TGSA)  
-  **<span style="color:#120A8F;">Yiheng Zhu</span>**, Zhenqiu Ouyang, Wenbo Chen, Ruiwei Feng, Danny Z Chen, Ji Cao, Jian Wu
+  **<span style="color:#120A8F;">Yiheng Zhu†</span>**, Zhenqiu Ouyang†, Wenbo Chen, Ruiwei Feng, Danny Z Chen, Ji Cao, Jian Wu
 
