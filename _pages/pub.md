@@ -56,7 +56,7 @@ AI Core
 
 
 - <span style="color:#F29F58;">[EMNLP 2026 Findings]</span> 
-  Func-R1: Incentivizing Mathematical Function Reasoning in Multimodal Large Language Models  
+  [Func-R1: Incentivizing Mathematical Function Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2609.14779)  
   Mingze Yin, Xiaohan Wang, Dian Li, Yao Haichao, Yilin Zhao, Youjun Chen, sinbadliu, Jintai Chen, **<span style="color:#120A8F;">Yiheng Zhu\*</span>**, Chang-Yu Hsieh*, Aimin PAN*
 
   
