@@ -6,12 +6,12 @@ AI for Molecular Design & Discovery
 </div>
 
 - <span style="color:#F29F58;">[NeurIPS 2026]</span> 
-  [BridgeDock: Taming Generative Co-Folding Prior for Molecular Docking with Diffusion Bridge](https://arxiv.org/abs/2611.00795)
+  [BridgeDock: Taming Generative Co-Folding Prior for Molecular Docking with Diffusion Bridge](https://arxiv.org/abs/2611.00795)  
   Shikun Feng, Zipeng Yang, Qiuyi Li, Mingze Yin, Xiaoyuan Zhang, Tingjun Hou, **<span style="color:#120A8F;">Yiheng Zhu\*</span>**
 
 
 - <span style="color:#F29F58;">[NeurIPS 2026]</span> 
-  [EpistasisBench: Revealing the Limits of Zero-Shot Scoring Schemes for Protein Language Models]
+  EpistasisBench: Revealing the Limits of Zero-Shot Scoring Schemes for Protein Language Models  
   Junan Chen, jianwen Min, Liang He\*, **<span style="color:#120A8F;">Yiheng Zhu\*</span>**
 
 
